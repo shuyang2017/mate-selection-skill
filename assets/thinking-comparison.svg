@@ -1,0 +1,37 @@
+<svg viewBox="0 0 680 440" width="100%" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>类比思维与第一性原理思维对比</title>
+<desc>左侧按惯例类比思考的常见误区，右侧按第一性原理思考的正确做法。</desc>
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<rect x="0" y="0" width="680" height="440" fill="#ffffff"/>
+<text x="340" y="28" text-anchor="middle" font-size="14" font-weight="bold" fill="#2C2C2A">两种思维方式对比</text>
+
+<rect x="40" y="48" width="290" height="372" rx="12" fill="#FCEBEB" stroke="#A32D2D"/>
+<text x="185" y="78" text-anchor="middle" font-size="13" font-weight="bold" fill="#501313">按类比 / 惯例思考</text>
+<circle cx="62" cy="122" r="4" fill="#A32D2D"/>
+<text x="78" y="126" font-size="12" fill="#712B13">照抄别人的择偶清单</text>
+<circle cx="62" cy="180" r="4" fill="#A32D2D"/>
+<text x="78" y="184" font-size="12" fill="#712B13">当消费：按参数挑人</text>
+<circle cx="62" cy="238" r="4" fill="#A32D2D"/>
+<text x="78" y="242" font-size="12" fill="#712B13">追代理指标(房车收入身高)</text>
+<circle cx="62" cy="296" r="4" fill="#A32D2D"/>
+<text x="78" y="300" font-size="12" fill="#712B13">为"显得成功"的婚姻优化</text>
+<circle cx="62" cy="354" r="4" fill="#A32D2D"/>
+<text x="78" y="358" font-size="12" fill="#712B13">忽略自己也被选择</text>
+
+<rect x="350" y="48" width="290" height="372" rx="12" fill="#EAF3DE" stroke="#3B6D11"/>
+<text x="495" y="78" text-anchor="middle" font-size="13" font-weight="bold" fill="#173404">按第一性原理思考</text>
+<circle cx="372" cy="122" r="4" fill="#3B6D11"/>
+<text x="388" y="126" font-size="12" fill="#27500A">从自身真实目标出发</text>
+<circle cx="372" cy="180" r="4" fill="#3B6D11"/>
+<text x="388" y="184" font-size="12" fill="#27500A">当合伙：看组合价值</text>
+<circle cx="372" cy="238" r="4" fill="#3B6D11"/>
+<text x="388" y="242" font-size="12" fill="#27500A">盯核心维度(契合/机制/可靠)</text>
+<circle cx="372" cy="296" r="4" fill="#3B6D11"/>
+<text x="388" y="300" font-size="12" fill="#27500A">为真实合伙质量优化</text>
+<circle cx="372" cy="354" r="4" fill="#3B6D11"/>
+<text x="388" y="358" font-size="12" fill="#27500A">同步提升自身 offer</text>
+
+<path d="M335 233 L357 233" fill="none" stroke="#5F5E5A" stroke-width="1.5" marker-end="url(#arrow)"/>
+</svg>
